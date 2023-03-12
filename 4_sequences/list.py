@@ -12,7 +12,7 @@ print(myList[2:])
 print(myList[-4:-1])
 
 if 4 in myList:
-  print("Yes, 4 is in the list")
+    print("Yes, 4 is in the list")
 
 myList[1] = 999
 print(myList)
